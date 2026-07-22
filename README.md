@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Student | AI Enthusiast | Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+AI+Solutions;Data+Science+Student;Backend+Developer;Always+Learning+🚀" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;AI+Enthusiast;Backend+Developer;Always+Learning)](https://git.io/typing-svg)
 </p>
 
 ---
