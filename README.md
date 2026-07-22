@@ -44,8 +44,38 @@
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
+## 🚀 Current Focus
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,docker,kubernetes,aws" />
+</p>
+
+- 🧠 Machine Learning & Deep Learning
+- 🔗 LangChain & LangGraph
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🦙 Running Local LLMs with Ollama
+- 🚀 Building AI-powered APIs with FastAPI
+- ☁️ Deploying AI applications using Docker, Kubernetes & AWS
 ---
 
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-5A4FCF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 ## 📈 GitHub Stats
 
 <p align="center">
