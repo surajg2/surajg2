@@ -76,6 +76,8 @@
 <img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
