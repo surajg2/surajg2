@@ -50,9 +50,8 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=surajg2&show_icons=true&theme=tokyonight&hide_border=true"/>
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark&show_icons=true&cache_seconds=86400
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajg2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -69,7 +68,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=surajg2&theme=tokyonight&no-frame=true&row=1&column=7"/>
+![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true)
 </p>
 
 ---
