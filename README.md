@@ -87,7 +87,7 @@
 ## 📊 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajg2&theme=tokyo-night"/>
 </p>
 
 ---
@@ -95,9 +95,8 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-gupta-11b044371/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:g8808401@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
