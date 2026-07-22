@@ -50,7 +50,7 @@
 
 <p align="center">
 
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark&show_icons=true&cache_seconds=86400
+https://github-readme-stats.vercel.app/api?username=surajg2&theme=github_dark&show_icons=true&cache_seconds=86400
 
 
 </p>
@@ -68,7 +68,7 @@ https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_d
 ## 🏆 GitHub Trophies
 
 <p align="center">
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=surajg2&theme=tokyonight&no-frame=true&no-bg=true)
 </p>
 
 ---
